@@ -1,5 +1,5 @@
 # IMGPROG
-
+La idea es que el programa reciba una imagen de entrada, sea capaz de realizar una serie de procesamientos a dicha imagen y guarde el resultado en un archivo de salida.
 ## Procesamiento de imágenes
 ### Features propuestas:
 - Rotar imagenes
