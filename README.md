@@ -1,17 +1,26 @@
-# IMGPROG
-La idea es que el programa reciba una imagen de entrada, sea capaz de realizar una serie de procesamientos a dicha imagen y guarde el resultado en un archivo de salida.
-## Procesamiento de imágenes
-### Features propuestas:
-- Rotar
-- Recortar
-- Pasar a escala de grises
-- Pasar a blanco y negro
-- Pasar a ASCII
-- Filtrado
-- Estadística de imagen (p.ej.: histogramas)
+# GRUPO QUE GENERA UN QR EN BASE A LOS DATOS DE LOGÍSTICA Y EL AEROPUERTO
+## Datos que nos pasa el grupo de logística
 
-### Futuras decisiones:
-* Mejor formato?
-- bitmap (tiene cosas raras)
-- png (capa extra transparencia)
-- ...
+class Order {
+String id
+String trackingCode
+Bool fragile
+Date shippingDate
+Date arrivalDate
+int weight
+String state
+}
+
+class Client {
+String name
+String namilyName
+String idCard
+String email
+String mobilePhone
+String country
+String state
+String address
+Bool premium
+}
+
+## Datos que nos pasa el grupo del aeropuerto
