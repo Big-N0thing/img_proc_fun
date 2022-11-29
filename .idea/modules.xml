@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/img_proc_fun.iml" filepath="$PROJECT_DIR$/.idea/img_proc_fun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microservicio QR/qr-code-generator-and-reader.iml" filepath="$PROJECT_DIR$/Microservicio QR/qr-code-generator-and-reader.iml" />
+    </modules>
+  </component>
+</project>
