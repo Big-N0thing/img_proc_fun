@@ -1,4 +1,4 @@
-package org.csvmanager;
+package MyCSVManager;
 
 import java.io.FileReader;
 /*import java.nio.file.Path;

@@ -1,4 +1,4 @@
-package org.csvmanager;
+package MyCSVManager;
 
 import java.io.FileWriter;
 import java.io.IOException;
