@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a9a8670c-9bcd-44bb-b829-3c2875a5cc76" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pruebaEscritura.csv" beforeDir="false" afterPath="$PROJECT_DIR$/pruebaEscritura.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/csvmanager/csvWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/csvmanager/csvWriter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
