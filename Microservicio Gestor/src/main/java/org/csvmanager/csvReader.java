@@ -8,7 +8,7 @@ import com.opencsv.*;
 
 public class csvReader
 {
-	private static String CSV_FILE_PATH = "C:/Users/afrodriguezl/Desktop/example.csv";	
+	private static String CSV_FILE_PATH = "./pruebaLectura.csv";
 
     public static void main( String[] args )
     {    	
